@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/skirt-treat-flep9.figma-tokens-lfib1ft6",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 6pCsYt7IKNEPxMIBShZF --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
